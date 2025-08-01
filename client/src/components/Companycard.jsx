@@ -79,7 +79,7 @@ function Companycard() {
       <style>{styles}</style>
 
       <div className="container py-5">
-        <h1 className="text-center mb-5 fw-bold"style={{ color: '#f36624', fontSize: '3.5rem' }}>Startups Empowered</h1>
+        <h1 className="text-center mb-5 fw-bold"style={{ color: '#f36624', fontSize: '2.0rem' }}>Startups Empowered</h1>
 
         <div className="row g-4">
           {logos.map((logo, idx) => (

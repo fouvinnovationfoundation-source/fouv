@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { saveUser } from '../utils/storage';
-import Fouvlogo from '../assets/fouvlogo.png';
+import Fouvlogo from '../assets/Fouvlogo.png';
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
 
 const Login = () => {
