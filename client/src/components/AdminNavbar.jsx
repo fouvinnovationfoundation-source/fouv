@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { getUser } from '../utils/storage';
-import Fouvlogo from '../assets/Fouvlogo.jpg';
+import Fouvlogo from '../assets/FouvLogonav.png';
 
 const AdminNavbar = ({ setActiveSection, handleLogout, activeSection }) => {
   const user = getUser();
