@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import Fouvlogo from "../assets/Fouvlogocopy.png";
+import Fouvlogo from "../assets/Fouvlogo.jpg";
 
 function Navbar() {
   const [hoveredLink, setHoveredLink] = useState(null);
